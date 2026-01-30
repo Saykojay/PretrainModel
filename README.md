@@ -14,13 +14,13 @@ This repository contains implementations of various deep learning architectures 
 | **TimePerceiver** | Perceiver-based Time Series Model | [TimePerceiver_Pretrain_Pipeline.ipynb](TimePerceiver_Pretrain_Pipeline.ipynb) |
 | **TimeTracker** | Custom Time Series Tracker | [TimeTracker_Pretrain_Pipeline.ipynb](TimeTracker_Pretrain_Pipeline.ipynb) |
 ---
-## 📊 Dataset
+## Dataset
 **DKASC (Desert Knowledge Australia Solar Centre) Dataset**
 - Real-world solar PV generation data from Alice Springs, Australia
 - Features: Irradiance, Temperature, Humidity, Wind Speed, PV Power Output
 - Used for training and evaluating time-series prediction models
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python 3.10 -  3.12**
 - **TensorFlow / Keras** - Deep learning framework
 - **Pandas & NumPy** - Data manipulation
@@ -29,7 +29,7 @@ This repository contains implementations of various deep learning architectures 
 - **Optuna** - Hyperparameter optimization
 - **MLflow** - Experiment tracking
 ---
-## 🚀 Getting Started
+## Getting Started
 ### Prerequisites
 ```bash
 pip install tensorflow pandas numpy matplotlib scikit-learn optuna mlflow
