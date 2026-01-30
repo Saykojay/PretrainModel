@@ -2,7 +2,7 @@
 # PV Power Output Prediction using Deep Learning Models
 Comparison of different deep learning models for **Photovoltaic (PV) power output prediction** using DKASC dataset. This project is part of my thesis research on **E-Methanol production simulation** with solar power uncertainty prediction.
 ---
-## 📋 Project Overview
+## Project Overview
 This repository contains implementations of various deep learning architectures for time-series forecasting of solar PV power output. The goal is to compare model performance and identify the best approach for handling solar power uncertainty in downstream chemical process optimization.
 ### Models Implemented:
 | Model | Description | Notebook |
@@ -21,7 +21,7 @@ This repository contains implementations of various deep learning architectures 
 - Used for training and evaluating time-series prediction models
 ---
 ## 🛠️ Tech Stack
-- **Python 3.x**
+- **Python 3.10 -  3.12**
 - **TensorFlow / Keras** - Deep learning framework
 - **Pandas & NumPy** - Data manipulation
 - **Matplotlib & Seaborn** - Visualization
