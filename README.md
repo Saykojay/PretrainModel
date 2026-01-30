@@ -16,8 +16,9 @@ This repository contains implementations of various deep learning architectures 
 ---
 ## Dataset
 **DKASC (Desert Knowledge Australia Solar Centre) Dataset**
-- Real-world solar PV generation data from Alice Springs, Australia
-- Features: Irradiance, Temperature, Humidity, Wind Speed, PV Power Output
+- Real-world solar PV generation data from Alice Springs, Australia (5 years, 1 hour resolution)
+- Features: Irradiance, Temperature, Humidity, Wind Speed, Historical PV Power Output
+- Target : PV power output
 - Used for training and evaluating time-series prediction models
 ---
 ## Tech Stack
